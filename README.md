@@ -1,7 +1,6 @@
 ## Hi everybody 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzaurzli)
 
-**Small runze** wandering in the ocean of knowledge, here is my [resume](https://hzaurzli.github.io/Resume/).
+**Small runze** wandering in the ocean of knowledge, here is my [Resume](https://hzaurzli.github.io/Resume/).
 
 Here are some details to let you know:
 
@@ -19,3 +18,5 @@ Here are some details to let you know:
 - 💬 Ask me about: HaHa! confidential.
 
 - 📫 How to reach me: Please contact me: small.runze@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzaurzli)
