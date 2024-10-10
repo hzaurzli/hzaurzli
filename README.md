@@ -9,12 +9,12 @@ Here are some details to let you know:
 
 - 🤔 I’m looking for help with: Life science, Bioinformatic, Virome, if you have any question, pls let me know!
 
-- 😄 Pronouns: My research interests are focused on developing **useful bioinformatics software to integrate data and mine valid information**. Current research interests focus on **the exploration of bactericidal agents in the microworld (phage)** , and **the genetic mystery of phage and host interaction from population perspective**. I am dedicated to advancing computational methods to promote the exploration of the microworld.
+- 😄 My research interests are focused on developing **useful bioinformatics software to integrate data and mine valid information**. Current research interests focus on **the exploration of bactericidal agents in the microworld (phage)** , and **the genetic mystery of phage and host interaction from population perspective**. I am dedicated to advancing computational methods to promote the exploration of the microworld.
 
 - 🌱 Representative work
-> GeminiMol: a generic molecular representation model pre-trained on a miniaturized dataset (39,290), which incorporates conformational space profile into molecular representation learning. Advanced Science GitHub
->PPI-Miner: a motif-driven PPI identification method, that can be applied to discovering novel PPIs, the rational design of molecular glues, and protein vaccines. Using the PPI-Miner, we >developed the first potential substrates database of CRBN, serving the rational design of molecular glue degraders. [Journal of Chemical Information and Modeling] [Online Database]
-Discovery of PPI disruptors by targeting the SARS-CoV-2 spike protein. [Journal of Medicinal Chemistry | Acta Pharmacologica Sinica]
+>- ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides,Database(2024), [Reference](https://academic.oup.com/database/article/doi/10.1093/database/baae022/7635281?login=true), [Github](https://github.com/hzaurzli/ESKtides).
+>- Discovery of Antimicrobial Lysins from the “Dark Matter” of Uncharacterized Phages Using Artificial Intelligence. Adv Sci (Weinh), [Reference](https://onlinelibrary.wiley.com/doi/10.1002/advs.202404049), [Github](https://github.com/hzaurzli/DeepLysin).
+>- MicroWorldOmics: A “One step for All” desktop application for comprehensive microbiome/virome analysis and exploration of microbial “Dark Matter”. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.24.600528), [Github](https://github.com/hzaurzli/MicroWorldOmics).
   
 - 💬 Ask me about: HaHa! confidential.
 
