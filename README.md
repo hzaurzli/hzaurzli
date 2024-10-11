@@ -13,7 +13,7 @@ Here are some details to let you know:
 - 🌱 Representative work:
 >- ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides,Database(2024), [Reference](https://academic.oup.com/database/article/doi/10.1093/database/baae022/7635281?login=true), [Github](https://github.com/hzaurzli/ESKtides).
 >- Discovery of Antimicrobial Lysins from the “Dark Matter” of Uncharacterized Phages Using Artificial Intelligence. Adv Sci (Weinh), [Reference](https://onlinelibrary.wiley.com/doi/10.1002/advs.202404049), [Github](https://github.com/hzaurzli/DeepLysin).
->- MicroWorldOmics: A “One step for All” desktop application for comprehensive microbiome/virome analysis and exploration of microbial “Dark Matter”. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.24.600528), [Github](https://github.com/hzaurzli/MicroWorldOmics).
+>- MicroWorldOmics: A “One step for All” desktop application for comprehensive microbiome/virome analysis and exploration of microbial “Dark Matter”. bioRxiv, [Reference](https://www.biorxiv.org/content/10.1101/2024.06.24.600528), [Github](https://github.com/hzaurzli/MicroWorldOmics).
   
 - 💬 Ask me about: HaHa! confidential.
 
